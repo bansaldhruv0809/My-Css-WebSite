@@ -91,13 +91,13 @@ span {
 .top-cloud {
   position: absolute;
   right: 18.00rem;
-  top: 1.50rem;
+  top: 1.00rem;
 }
 
 .bottom-cloud {
   position: absolute;
   left: 18.00rem;
-  top: 11.00rem;
+  top: 12.00rem;
 }
 
 .skill-row {
